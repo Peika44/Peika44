@@ -4,6 +4,8 @@
 
 ### Software Engineer · Full Stack · GenAI
 
+> Building things that scale, from single cells to single users.
+
 </div>
 
 ---
